@@ -10,4 +10,4 @@ The compiled binary must always be located in the same directory as the 'resourc
 - A properly installed OpenCV's C++ API.
 
 ## Notes
-When compiling, please ensure that the include paths and paths to the dynamic libraries are available and valid, or else risk a compile/link error.
+When compiling, please ensure that the include paths and path to the dynamic libraries are available and valid, or else risk a compile/link error.
